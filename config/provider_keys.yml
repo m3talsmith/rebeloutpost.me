@@ -22,11 +22,11 @@ test:
 
 production:
   facebook:
-    consumer_key: 278028398912492
-    consumer_secret: c5b50969ed24da7040004a9b176796d9
+    consumer_key: 249148091834756
+    consumer_secret: fb9f3011e1a5878d5c3f29f21cfdc024
   twitter:
-    consumer_key: 56bbZ6YyVmInXmeTSeZMMg
-    consumer_secret: Of10OJg8MH4t2NXBXZwkmFQmS8WoN6gkLxKEwChA
+    consumer_key: 8YeAE49LAmUcmwLBpVIQA
+    consumer_secret: BfHNStRRpfjClbvd1GnbdD1j5N5aEJk2YkAXZfktaU
   google:
     consumer_key: 618953607369-tc3ipnuggd0k8cjrrta6f2g2q4g1sfhk.apps.googleusercontent.com
     consumer_secret: a_ZHYdsnxv1YtU5CcBcIKwGe
